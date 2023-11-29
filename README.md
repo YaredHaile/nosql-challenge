@@ -32,7 +32,7 @@ The magazine editors have some requested modifications for the database before y
 
  1 - An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:
 
-https://bootcampspot.instructure.com/courses/4165/assignments/61152?module_item_id=1063867#:~:text=%7B%0A%20%20%20%20%22BusinessName%22%3A%22Penang%20Flavours,4623.9723280747176%2C%0A%20%20%20%20%22NewRatingPending%22%3ATrue%0A%7D
+![image](https://github.com/YaredHaile/nosql-challenge/assets/142150544/f39f4070-20b4-4c5d-b773-d0ef1d1cbbe4)
 
  2 - Find the BusinessTypeID for "Restaurant/Cafe/Canteen" and return only the BusinessTypeID and BusinessType fields.
 
